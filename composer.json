@@ -1,0 +1,16 @@
+{
+    "name": "sherzod/phpunit-test",
+    "autoload": {
+        "psr-4": {
+            "Learning\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sherzod"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    }
+}
